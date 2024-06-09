@@ -1,1 +1,1 @@
-# core
+# Aura Home
