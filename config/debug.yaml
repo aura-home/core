@@ -1,0 +1,4 @@
+core:
+  logger:
+    enable: true
+    level: debug
